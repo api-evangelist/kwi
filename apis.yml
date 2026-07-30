@@ -1,22 +1,97 @@
 aid: kwi
 name: KWI
-description: KWI is a company surfaced as a portfolio company of insight-partners and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: 'KWI is a retail technology company founded in 1985 and headquartered
+  in Melville, New York, that delivers a cloud-based, unified commerce platform for
+  specialty and department retailers. The platform combines an iOS mobile point-of-sale,
+  merchandising and inventory optimization, order management with buy-anywhere /
+  fulfill-from-anywhere fulfillment, CRM, clienteling and loyalty, the Snapshot
+  real-time sales analytics application, and AI product image search, all operated
+  as a SaaS managed service with helpdesk, hardware, and payments support. KWI
+  describes an API layer in its platform architecture used to export data to
+  third-party systems and channels --- CRMs, ERPs, SRPs, and supply chains ---
+  alongside packaged connectors such as Shopify Connect and a Klaviyo connector.
+  As of this profile KWI publishes no public developer portal, API reference,
+  machine-readable specification, or SDKs; integration is delivered through its
+  professional-services organization under customer contract.'
 url: https://raw.githubusercontent.com/api-evangelist/kwi/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.kwi.com/wp-content/themes/retrograde/img/footer-logo2.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - insight-partners
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-backed-by-note: Surfaced via an Insight Partners portfolio listing; KWI's own About
+  page states the company is privately held with "$0 outside investment". The investor
+  relationship is unverified on KWI's own site.
+x-tier: profiled
+x-tier-reason: Public company and product surface researched 2026-07-19; no public
+  API developer surface published.
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Retail
+- Point of Sale
+- Unified Commerce
+- Omnichannel
+- Order Management
+- Merchandising
+- Loyalty
+- CRM
+- Retail Analytics
+- SaaS
 apis: []
+common:
+- type: Website
+  url: https://www.kwi.com/
+- type: Blog
+  url: https://www.kwi.com/category/blog/
+- type: BlogRSS
+  url: https://www.kwi.com/feed/
+- type: PrivacyPolicy
+  url: https://www.kwi.com/privacy/
+- type: Login
+  url: https://www.kligerweiss.net/
+- type: SignUp
+  url: https://www.kwi.com/get-started/
+- type: Contact
+  url: https://www.kwi.com/contact/
+- type: About
+  url: https://www.kwi.com/about-us/
+- type: Partners
+  url: https://www.kwi.com/our-partners/
+- type: Careers
+  url: https://www.kwi.com/careers/
+- type: Press
+  url: https://www.kwi.com/category/news/
+- type: Events
+  url: https://www.kwi.com/events-kwi/
+- type: Resources
+  url: https://www.kwi.com/resources/
+- type: ProductPage
+  url: https://www.kwi.com/platform/apis/
+- type: DomainSecurity
+  url: security/kwi-domain-security.yml
+- type: LLMsTxt
+  url: llms/kwi-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
