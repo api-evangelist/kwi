@@ -1,0 +1,35 @@
+{
+  "repo": "kwi",
+  "feeds": [
+    {
+      "source": "https://www.kwi.com/feed/",
+      "feed_url": "https://www.kwi.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.kwi.com/category/blog/feed/",
+      "feed_url": "https://www.kwi.com/category/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.kwi.com/",
+      "feed_url": "https://www.kwi.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://www.kwi.com/category/blog/",
+      "feed_url": "https://www.kwi.com/category/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 27,
+  "fetched": "2026-07-25T15:00:33Z"
+}

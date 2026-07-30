@@ -1,0 +1,76 @@
+# KWI
+
+> KWI is a retail technology company (founded 1985, Melville, New York) providing a
+> cloud-based unified commerce platform for specialty and department retailers: iOS
+> mobile point-of-sale, merchandising, order management, CRM, clienteling and loyalty,
+> real-time analytics, and AI product image search, delivered as a SaaS managed service.
+
+Important: KWI does not publish a public developer portal, API reference, OpenAPI or
+other machine-readable specification, SDKs, CLI, MCP server, or sandbox. KWI describes
+an "API layer" in its platform architecture used to export data to third-party systems
+and channels (CRM, ERP, SRP, supply chain), plus packaged connectors such as Shopify
+Connect and a Klaviyo connector, but access and documentation are delivered through
+KWI's professional-services organization under customer contract. Do not assume or
+invent endpoints, base URLs, authentication schemes, or SDK package names for KWI.
+
+## Platform
+
+- [Platform overview](https://www.kwi.com/platform/): Unified commerce platform components.
+- [POS](https://www.kwi.com/pos/): iOS-based mobile point-of-sale.
+- [Merchandising](https://www.kwi.com/platform/merchandising/): Inventory analytics, replenishment, pricing, promotions.
+- [Order Management](https://www.kwi.com/platform/order-management/): Buy-anywhere, fulfill-from-anywhere order orchestration.
+- [Loyalty](https://www.kwi.com/platform/loyalty/): Customer loyalty program management.
+- [CRM](https://www.kwi.com/platform/crm/): Customer relationship management and clienteling.
+- [Snapshot](https://www.kwi.com/platform/snapshot/): Real-time sales and business analytics application.
+- [AI Product Image Search](https://www.kwi.com/platform/ai-product-image-search/): Visual product search.
+- [APIs](https://www.kwi.com/platform/apis/): Marketing description of KWI's application and API layers. Not a developer reference.
+
+## Services
+
+- [Managed Services](https://www.kwi.com/managed-services/): Customer success, hardware, helpdesk, global payments.
+- [Professional Services](https://www.kwi.com/professional-services/): Implementation and integration; the route to API access.
+
+## Solutions
+
+- [Apparel, Footwear & Accessories](https://www.kwi.com/apparel-footwear/)
+- [Jewelry](https://www.kwi.com/platform/jewelry/)
+- [Beauty & Cosmetics](https://www.kwi.com/beauty-cosmetics/)
+- [Department & General Store](https://www.kwi.com/department-general-store/)
+- [Specialty Store](https://www.kwi.com/specialty-store/)
+- [Omnichannel](https://www.kwi.com/omnichannel/)
+- [Pricing & Promotions](https://www.kwi.com/pricing-promotions/)
+- [Clienteling & Loyalty](https://www.kwi.com/clienteling-loyalty/)
+- [Inventory Optimization](https://www.kwi.com/inventory-optimization/)
+- [Analytics & Reporting](https://www.kwi.com/analytics-reporting/)
+
+## Company
+
+- [About Us](https://www.kwi.com/about-us/): Founded 1985 by Sam Kliger; headquartered in Melville, NY.
+- [Leadership](https://www.kwi.com/team/)
+- [Partners](https://www.kwi.com/our-partners/)
+- [Customers](https://www.kwi.com/customers/)
+- [Careers](https://www.kwi.com/careers/)
+- [Contact](https://www.kwi.com/contact/): sales@kwi.com, 1 (800) 873-5944.
+- [Get Started](https://www.kwi.com/get-started/)
+- [Customer Login](https://www.kligerweiss.net/)
+
+## Resources
+
+- [All Resources](https://www.kwi.com/resources/)
+- [Blog](https://www.kwi.com/category/blog/) ([RSS](https://www.kwi.com/feed/))
+- [News & Press](https://www.kwi.com/category/news/)
+- [Product Overviews](https://www.kwi.com/category/product-overviews/)
+- [eBooks](https://www.kwi.com/category/ebooks/)
+- [Infographics](https://www.kwi.com/category/infographics/)
+- [Videos](https://www.kwi.com/category/videos/)
+- [Events](https://www.kwi.com/events-kwi/)
+
+## Legal
+
+- [Privacy Policy](https://www.kwi.com/privacy/)
+
+## Optional
+
+- KWI publishes no terms-of-service page, pricing page, status page, roadmap, GitHub
+  organization, Postman collection, security.txt, vulnerability-disclosure program, or
+  trust center that could be found as of 2026-07-19.

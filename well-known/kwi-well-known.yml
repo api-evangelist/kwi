@@ -1,0 +1,54 @@
+generated: '2026-07-19'
+method: searched
+source: live probe of https://www.kwi.com/.well-known/* and /llms.txt
+published: false
+note: >-
+  KWI's WordPress site answers every unknown path with HTTP 200 and the site
+  homepage (a soft 404). Each path below returned 200, but the response body is
+  byte-identical to https://www.kwi.com/ (md5 8f594e67b20e162457d5d768a1c157e8),
+  so NONE of these discovery documents are actually published. No raw files were
+  saved and no WellKnown/SecurityTxt pointer is wired into apis.yml, because
+  nothing real exists to point at. This is a negative record so re-runs do not
+  re-probe blindly.
+host: https://www.kwi.com
+documents:
+- path: /.well-known/security.txt
+  status: 200
+  soft_404: true
+  published: false
+- path: /.well-known/openid-configuration
+  status: 200
+  soft_404: true
+  published: false
+- path: /.well-known/oauth-authorization-server
+  status: 200
+  soft_404: true
+  published: false
+- path: /.well-known/api-catalog
+  status: 200
+  soft_404: true
+  published: false
+- path: /.well-known/ai-plugin.json
+  status: 200
+  soft_404: true
+  published: false
+- path: /llms.txt
+  status: 200
+  soft_404: true
+  published: false
+other_hosts_probed:
+- host: https://developer.kwi.com
+  status: 0
+  note: DNS does not resolve
+- host: https://docs.kwi.com
+  status: 0
+  note: DNS does not resolve
+- host: https://api.kwi.com
+  status: 0
+  note: DNS does not resolve
+- host: https://status.kwi.com
+  status: 0
+  note: DNS does not resolve
+- host: https://trust.kwi.com
+  status: 0
+  note: DNS does not resolve
