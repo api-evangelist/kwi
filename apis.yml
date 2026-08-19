@@ -36,7 +36,7 @@ x-backed-by-note: Surfaced via an Insight Partners portfolio listing; KWI's own 
 x-tier: profiled
 x-tier-reason: Public company and product surface researched 2026-07-19; no public
   API developer surface published.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
