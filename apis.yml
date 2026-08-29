@@ -14,6 +14,17 @@ description: 'KWI is a retail technology company founded in 1985 and headquarter
   machine-readable specification, or SDKs; integration is delivered through its
   professional-services organization under customer contract.'
 url: https://raw.githubusercontent.com/api-evangelist/kwi/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
